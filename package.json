@@ -1,0 +1,21 @@
+{
+  "name": "mongo-restore",
+  "version": "0.1.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Serge Borovikov <spectrs55@gmail.com> (https://github.com/yiooxir)",
+  "license": "MIT",
+  "bugs": "",
+  "dependencies": {
+    "async": "^1.5.2",
+    "exec": "^0.2.1",
+    "mongoimport": "^1.0.6"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5",
+    "should": "^8.3.1"
+  }
+}
