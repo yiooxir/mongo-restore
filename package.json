@@ -8,7 +8,22 @@
   },
   "author": "Serge Borovikov <spectrs55@gmail.com> (https://github.com/yiooxir)",
   "license": "MIT",
-  "bugs": "",
+  "homepage": "https://github.com/yiooxir/mongo-restore",
+  "bugs": "https://github.com/yiooxir/mongo-restore/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yiooxir/mongo-restore.git"
+  },
+  "keywords": [
+    "restore",
+    "fixtures",
+    "mongo",
+    "mongodb",
+    "restoredb",
+    "json",
+    "restore json",
+    "restore js"
+  ],
   "dependencies": {
     "async": "^1.5.2",
     "exec": "^0.2.1",
