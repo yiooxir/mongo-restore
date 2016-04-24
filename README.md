@@ -36,5 +36,7 @@ restore({path: '/tests/fixtures', dropDb: true}, (err, res) => {
   if (err) console.error(err); return;
   console.log('test db restored')
 })
+
 ```
+This code remove all data from mongo test db and create two collections with same names as you fixture files are called (First one: myTextCollection; second one: myTextColl2)
 
