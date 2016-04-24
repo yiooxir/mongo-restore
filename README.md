@@ -10,7 +10,7 @@ This simple module get you simple and fast method for populating your mongo db c
 I sure, it is normal to use dev dependency for that:
 
 ```bash
-npm istall mongo-restore -D
+npm install mongo-restore -D
 ```
 
 ## Usage
